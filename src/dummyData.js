@@ -4,7 +4,7 @@ const Data = [
     subtitle: "a simple macbook",
     description: "this will be generated",
     features: ["feat1", "feat2", "feat3"],
-    price: 236,
+    price: 236.99,
     img: "https://source.unsplash.com/ztvxSNFJih0",
   },
   {
@@ -12,7 +12,7 @@ const Data = [
     subtitle: "a simple macbook",
     description: "this will be generated",
     features: ["feat1", "feat2", "feat3"],
-    price: 236,
+    price: 236.99,
     img: "https://source.unsplash.com/alCEnNmzhPE",
   },
   {
@@ -20,7 +20,7 @@ const Data = [
     subtitle: "a simple macbook",
     description: "this will be generated",
     features: ["feat1", "feat2", "feat3"],
-    price: 236,
+    price: 236.99,
     img: "https://source.unsplash.com/q2fY5MGh1CM",
   },
   {
@@ -28,7 +28,7 @@ const Data = [
     subtitle: "a simple macbook",
     description: "this will be generated",
     features: ["feat1", "feat2", "feat3"],
-    price: 236,
+    price: 236.99,
     img: "https://source.unsplash.com/Im7lZjxeLhg",
   },
   {
@@ -36,7 +36,7 @@ const Data = [
     subtitle: "a simple macbook",
     description: "this will be generated",
     features: ["feat1", "feat2", "feat3"],
-    price: 236,
+    price: 236.99,
     img: "https://source.unsplash.com/y0_vFxOHayg",
   },
 ];
