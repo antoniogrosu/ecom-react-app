@@ -6,7 +6,7 @@ export default function ProductPage() {
   let { id } = useParams();
   let index = Data.findIndex((item) => item.id === id);
   return (
-    <div className="bg-slate-900 px-8 py-32 poppins">
+    <div className="bg-slate-900 px-8 py-32 poppins h-screen">
       <Product index={index} />
     </div>
   );
