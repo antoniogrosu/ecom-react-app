@@ -14,7 +14,9 @@ function App() {
         Click on any of these cards’ button and you will be redirected to its
         own route.
       </p>
-      <div>{cards}</div>
+      <div className="grid grid-cols-2 lg:grid-cols-3 w-full gap-4">
+        {cards}
+      </div>
     </div>
   );
 }
